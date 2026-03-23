@@ -1,4 +1,5 @@
 # Preparation
 preparing for good prduct interviews
-Concept && Coding - by Shrayansh - see for HLD, LLD AND JAVA AND SPRINGBOOT COURSES - kafka Architecture Notes - https://www.youtube.com/redirect?event=backstage_event&redir_token=QUFFLUhqbWlEbmZFUmpNdDRaVlFleDJjZnRZeXhFSFlnZ3xBQ3Jtc0tuZXJsa3lpZU9SQlF1ZGVteFAybnJQMXFPUGg3QjVsSU9EeFRhM25yNGVZQVVNRjVDWWk1ZDFGajRHSVliSWFscTBTVy0xdUlLakladlI5TGhFWnZaSVpKMGRlNklySnloaDJIS3NQUTJlNmxGT1R6Yw&q=https%3A%2F%2F1drv.ms%2Fo%2Fc%2F6b364628c29feb52%2FIgBMj092rB7WTpdf1fEHRa_nAVD4F1ye0GGueBTN_BR-0ew
+Concept && Coding - by Shrayansh - see for HLD, LLD AND JAVA AND SPRINGBOOT COURSES - kafka Architecture Notes - https://onedrive.live.com/personal/6b364628c29feb52/_layouts/15/Doc.aspx?sourcedoc={764f8f4c-1eac-4ed6-975f-d5f10745afe7}&action=view&redeem=aHR0cHM6Ly8xZHJ2Lm1zL28vYy82YjM2NDYyOGMyOWZlYjUyL0lnQk1qMDkyckI3V1RwZGYxZkVIUmFfbkFWRDRGMXllMEdHdWVCVE5fQlItMGV3&wd=target%28EDA.one%7Cdb553963-5e53-624f-a29b-d90345d55c74%2F1.%20Event%20Driven%20Architecture%28Introduction%5C%29%7C59609c06-7b42-3a44-8189-0d959e247d9d%2F%29&wdorigin=NavigationUrl
+
 
