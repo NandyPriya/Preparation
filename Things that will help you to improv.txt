@@ -1,0 +1,9 @@
+Things that will help you to improve the contest performance.
+1. Set a target. Like "I need to solve two problems during the contest." Increase the target eventually.
+2. Learn more concepts. Knowing more concepts = the probability of solving more problems will increase.
+3. Don't discuss during contests. Don't share hints or anything. Let others think for themselves. Discuss after the contest ends.
+4. Upsolve after the contest.
+5. Helping others or cheating during a contest won't help you in the long run.
+6. Practice regularly. Consistency is key. Solve at least a few problems every day, even outside of contests.
+7. Manage your time wisely. During a contest, don't get stuck on one problem for too long. Move to the next one and come back later.
+8. Learn from others' solutions. After a contest, read the editorial and top participants' code. You will often discover cleaner and more efficient approaches.
