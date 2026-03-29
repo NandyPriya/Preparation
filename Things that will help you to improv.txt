@@ -7,3 +7,33 @@ Things that will help you to improve the contest performance.
 6. Practice regularly. Consistency is key. Solve at least a few problems every day, even outside of contests.
 7. Manage your time wisely. During a contest, don't get stuck on one problem for too long. Move to the next one and come back later.
 8. Learn from others' solutions. After a contest, read the editorial and top participants' code. You will often discover cleaner and more efficient approaches.
+
+ Master Linked List: https://lnkd.in/d7vekRyG
+
+🔹 Master Tree: https://lnkd.in/dRyF6rRH
+
+🔹 To Queue Or Not To Queue: https://lnkd.in/dRYfWnPq
+
+🔹 Master Stacks and Overflows: https://lnkd.in/dwnPyHRi
+
+🔹 Taking Hash Tables Off The Shelf: https://lnkd.in/dAsuiV8W
+
+🔹 Master Heaps: https://lnkd.in/dCp8NWv2
+
+🔹 Master Recursion: https://lnkd.in/dhFwcNjn
+
+🔹 Understanding Tries: https://lnkd.in/dXyHYgp9
+
+🔹 Ultimate Binary Search Template: https://lnkd.in/dwzG3c95
+
+🔹 10-line template that can solve most 'substring' problems: https://lnkd.in/dP-gxFhy
+
+🔹 Less Repetition, More Dynamic Programming: https://lnkd.in/dPK9U77F
+
+🔹 Introduction To Graph Theory: https://lnkd.in/dBbC8iuF
+
+🔹 DFS Traversal - Deep Dive through a Graph: https://lnkd.in/d7vUakch
+
+🔹 BFS Traversal - Going Broad In A Graph: https://lnkd.in/dsyZfymU
+
+🔹 Finding The Shortest Path, With A Little Help From Dijkstra: https://lnkd.in/duSDdpsJ
