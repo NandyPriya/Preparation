@@ -55,5 +55,8 @@
 - Build small projects using Spring Boot
 - Understand real-world architecture (Kafka, Microservices)
 
+** AI LINK:**
+[https://dataengineeringnews.substack.com/p/the-complete-ai-roadmap-for-engineers]
+
 
 
