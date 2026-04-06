@@ -1,5 +1,59 @@
-# Preparation
-preparing for good prduct interviews
-Concept && Coding - by Shrayansh - see for HLD, LLD AND JAVA AND SPRINGBOOT COURSES - kafka Architecture Notes - https://onedrive.live.com/personal/6b364628c29feb52/_layouts/15/Doc.aspx?sourcedoc={764f8f4c-1eac-4ed6-975f-d5f10745afe7}&action=view&redeem=aHR0cHM6Ly8xZHJ2Lm1zL28vYy82YjM2NDYyOGMyOWZlYjUyL0lnQk1qMDkyckI3V1RwZGYxZkVIUmFfbkFWRDRGMXllMEdHdWVCVE5fQlItMGV3&wd=target%28EDA.one%7Cdb553963-5e53-624f-a29b-d90345d55c74%2F1.%20Event%20Driven%20Architecture%28Introduction%5C%29%7C59609c06-7b42-3a44-8189-0d959e247d9d%2F%29&wdorigin=NavigationUrl
+# 🚀 Preparation for Product-Based Company Interviews
+
+## 📚 Study Plan
+
+### 1. Concept & Coding
+- Follow **Concept && Coding by Shrayansh**
+- Focus areas:
+  - Data Structures & Algorithms (DSA)
+  - Problem-solving patterns
+
+---
+
+### 2. System Design
+
+#### 🔹 High-Level Design (HLD)
+- Scalability
+- Distributed systems
+- Architecture patterns
+
+#### 🔹 Low-Level Design (LLD)
+- Object-Oriented Design (OOD)
+- Design patterns
+- Clean code principles
+
+---
+
+### 3. Java & Spring Boot
+- Core Java concepts
+- Spring Boot fundamentals
+- REST APIs
+- Microservices basics
+
+---
+
+### 4. Kafka Architecture Notes
+- Event-driven architecture
+- Producers & Consumers
+- Topics & Partitions
+- Message flow
+
+📄 **Reference Notes:**
+[Kafka Architecture Notes](https://onedrive.live.com/personal/6b364628c29feb52/_layouts/15/Doc.aspx?sourcedoc={764f8f4c-1eac-4ed6-975f-d5f10745afe7}&action=view)
+
+---
+
+## 🎯 Goal
+- Crack product-based company interviews
+- Build strong problem-solving and system design skills
+
+---
+
+## 📌 Tips
+- Practice DSA daily
+- Revise system design concepts weekly
+- Build small projects using Spring Boot
+- Understand real-world architecture (Kafka, Microservices)
+
 
 
