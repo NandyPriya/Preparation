@@ -1,0 +1,31 @@
+# System Design Learning Resources
+
+This file contains useful resources for learning Low-Level Design (LLD), High-Level Design (HLD), system design, Java, AWS, and microservices.
+
+## YouTube Playlists
+
+- [LLD & HLD - Sharanesh Jain](https://www.youtube.com/results?search_query=LLD+%26+HLD+Sharanesh+Jain)
+- [LLD & HLD - Code with Aryan](https://www.youtube.com/results?search_query=LLD+%26+HLD+Code+with+Aryan)
+- [AWS, Java and Microservices - Lovepreet Singh](https://www.youtube.com/results?search_query=AWS%2C+Java+and+Microservices+Lovepreet+Singh)
+
+These are all YouTube playlists and are good for structured learning.
+
+## Alex Xu System Design Interview Books
+
+- [Alex Xu Book — Volume 1](https://drive.google.com/file/d/1JDu90wxDbN8dMrTlYweHXuWyRAX0K3Gv/view?usp=sharing)
+- [Alex Xu Book — Volume 2](https://drive.google.com/file/d/1ikiU8MUuV43W209TsRhfEiiAFayrz_rb/view?usp=sharing)
+
+## Suggested Study Order
+
+1. Start with LLD fundamentals
+2. Move to HLD concepts
+3. Study system design patterns
+4. Learn distributed systems and scalability
+5. Practice interviews using real-world scenarios
+6. Study AWS, Java, and microservices for backend depth
+
+## Notes
+
+- Use these resources for learning and revision
+- Combine theory with practical design examples
+- Practice by solving design questions on your own
